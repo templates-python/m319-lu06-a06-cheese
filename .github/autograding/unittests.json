@@ -1,0 +1,38 @@
+[
+  {
+    "name": "test_main_80",
+    "function": "test_main_80",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_main_26",
+    "function": "test_main_26",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_main_192",
+    "function": "test_main_192",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_main_0",
+    "function": "test_main_0",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_main_1",
+    "function": "test_main_1",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_main_300",
+    "function": "test_main_300",
+    "timeout": 10,
+    "points": 1
+  }
+]
