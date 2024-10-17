@@ -3,6 +3,7 @@ Write a program that asks the user for an amount of money in Kuwaiti Dinars and 
 200, 100, 75, 25, and 1 KD bills are needed to make up that amount.
 """
 
+
 def main():
     bills = [200, 100, 75, 25, 1]
     input_string = input('Gewünschter Betrag > ')
